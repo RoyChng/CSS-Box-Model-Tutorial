@@ -46,7 +46,7 @@ h1 {
 
 .article-img {
   width: 100%;
-  border-radius: 16px;
+  /* Add Border Radius */
 }
 
 .content p {
@@ -65,7 +65,6 @@ h3 {
   gap: 15px;
   box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16);
   /* Add padding & border*/
-  border-radius: 16px;
 }
 
 .related-post img {
