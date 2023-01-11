@@ -125,6 +125,7 @@ h3 {
   background-color: #fff;
   padding: 25px 20px;
   border-radius: 1rem;
+  display: flex;
 }
 
 .newsletter__input input {
