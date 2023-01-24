@@ -7,6 +7,7 @@ header {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  border-bottom: 10px solid #ba2025;
 
   /* Add Padding */
 }
@@ -45,7 +46,6 @@ h1 {
 
 .article-img {
   width: 100%;
-  /* Add Border Radius */
 }
 
 .content p {
